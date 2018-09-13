@@ -1,0 +1,10 @@
+C:\Users\mihanya\IdeaProjects\JavaRushHomeWork\src\
+
+C:\Users\mihanya\IdeaProjects\JavaRushHomeWork\src\file1
+C:\Users\mihanya\IdeaProjects\JavaRushHomeWork\src\file2
+
+C:\Users\mihanya\IdeaProjects\JavaRushHomeWork\src\number.txt
+
+C:\Users\mihanya\IdeaProjects\JavaRushHomeWork\src\string.txt
+
+C:\Users\mihanya\IdeaProjects\JavaRushHomeWork\src\output.txt
